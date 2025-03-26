@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\bin\Debug\net8.0\exercicio 3.exe
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\bin\Debug\net8.0\exercicio 3.deps.json
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\bin\Debug\net8.0\exercicio 3.runtimeconfig.json
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\bin\Debug\net8.0\exercicio 3.dll
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\bin\Debug\net8.0\exercicio 3.pdb
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.AssemblyInfo.cs
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.dll
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\refint\exercicio 3.dll
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.pdb
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\exercicio 3.genruntimeconfig.cache
+C:\Users\gabri\Desktop\exercicio2\exercicio 3\obj\Debug\net8.0\ref\exercicio 3.dll
